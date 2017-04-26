@@ -3,8 +3,8 @@ layout: home
 ---
 # About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+My name is Yannick, an IT Business Analyst and UX Designer.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I've been practicing web development for 2 1/2 years with focus on building intuitive and simplistic UI for web apps.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Skills: HTML, CSS, Javascript, jQuery, UX, Bootstrap, Wireframing, Video Editing, Photoshop CS6, Agile Methodology and Project Management 
