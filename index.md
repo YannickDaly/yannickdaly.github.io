@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
 My name is Yannick, a Front-End Web Developer and UX Designer.
 
