@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edge Case: No Body Content"
+title: "My Journey into UX Design"
 categories:
   - Edge Case
 tags:
