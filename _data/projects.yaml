@@ -3,9 +3,14 @@
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: Kyle Arrington Website
+- title: Kyle Arrington Case Study
   url: https://www.behance.net/gallery/52054181/Official-Website-of-Ravens-Cornerback-Kyle-Arrington
   image: https://mir-cdn.behance.net/v1/rendition/project_modules/fs/82437052054181.5902a701ae3c0.png
+  completed: true
+
+- title: Project 3
+  url: null
+  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
   completed: true
 
 - title: Project 3
