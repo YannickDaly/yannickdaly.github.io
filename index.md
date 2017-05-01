@@ -3,8 +3,12 @@ layout: home
 ---
 # About Me
 
-My name is Yannick, a Front-End Web Developer and UX Designer.
+Hi! My name is Yannick, a Front-End Web Developer and UX Designer. Understanding users and acting on the ebb and flow of their needs is what I enjoy, as hectic as that may be.
 
-I've been practicing web development for 2 1/2 years with focus on building intuitive and simplistic UI for web apps.
+I truly love collaborating and building with creative and talented individuals, bringing simple concepts to reality.  
 
-Skills: HTML, CSS, Javascript, jQuery, UX, Bootstrap, Wireframing, Video Editing, Photoshop CS6, Agile Methodology and Project Management
+I've been involved in web development for 2 1/2 years with focus on building intuitive and simplistic user interface for web apps. I'm currently an IT Business Analyst at Assurant, Inc.
+
+Check out my skills:
+
+HTML5, CSS3, JavaScript, jQuery, UX, Bootstrap, Balsamiq, Axure, Adobe Premiere, Adobe Photoshop, Agile Methodology and Project Management
