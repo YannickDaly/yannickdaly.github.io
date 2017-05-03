@@ -10,10 +10,15 @@
 
 - title: Visual Data Solutions
   url: https://www.behance.net/gallery/52171367/Visual-Data-Solutions-Marketing-One-Pagers
-  image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6d631452171367.5907b3c61534f.png
-  completed: true
-
-- title: Project 3
-  url: null
   image: images/VDS.png
   completed: true
+
+- title: Project 4
+  url: null
+  image: null
+  completed: false
+
+- title: Project 5
+  url: null
+  image: null
+  completed: false
