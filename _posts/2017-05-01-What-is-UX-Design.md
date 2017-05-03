@@ -4,6 +4,7 @@ title: "What is UX Design?"
 categories:
   - Me
   - UX Design
+image: ({{ site.url }}/images/joshua-hibbert-41539
 tags:
   - personal
   - blog
