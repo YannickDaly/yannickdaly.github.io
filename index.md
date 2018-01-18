@@ -7,7 +7,7 @@ I'm **Yannick**, a Front-End Web Developer and UX Designer. Understanding users 
 
 I truly love collaborating and building with creative and talented individuals, bringing simple concepts to reality.  
 
-I've been involved in web development for 2 1/2 years with a focus on building intuitive and simplistic user interface for web apps. I'm currently an IT Business Analyst at Assurant, Inc.
+I've been involved in web development for 2 1/2 years with a focus on building intuitive and simplistic user interface for web apps. 
 
 **My skills include:**
 
