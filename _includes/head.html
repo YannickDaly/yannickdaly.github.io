@@ -14,14 +14,14 @@
   {% endif %}
   {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
   <!-- Twitter Cards -->
-  {% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
+  {% comment %}{% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@yannikku">
   <meta name="twitter:image" content="{{ image }}">
   {% else %}<meta name="twitter:card" content="summary">
   <meta name="twitter:image" content="{{ site.logo }}">
   <meta name="twitter:description" content="Yannick Daly - Front-End Developer/UX Designer" />
-  <meta name="twitter:title" content="{{site.title}}">
+  <meta name="twitter:title" content="{{site.title}}">{% endcomment %}
   <!-- Open Graph -->
   <meta property="og:locale" content="{{ site.locale }}">
   <meta property="og:type" content="article">
